@@ -11,17 +11,17 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Data Description :
 
-ID	        Unique ID
-Gender		Gender of the customer
-Ever_Married	Marital status of the customer
-Age		Age of the customer
-Graduated	Is the customer a graduate?
-Profession	Profession of the customer
-Work_Experience	Work Experience in years
-Spending_Score	Spending score of the customer
-Family_Size	Number of family members for the customer (including the customer)
-Var_1		Anonymised Category for the customer
-Segmentation	(target) Customer Segment of the customer
+* **ID**	        Unique ID
+* **Gender**		Gender of the customer
+* **Ever_Married**	Marital status of the customer
+* **Age**		Age of the customer
+* **Graduated**	Is the customer a graduate?
+* **Profession**	Profession of the customer
+* **Work_Experience**	Work Experience in years
+* **Spending_Score**	Spending score of the customer
+* **Family_Size**	Number of family members for the customer (including the customer)
+* **Var_1**		Anonymised Category for the customer
+* **Segmentation**	(target) Customer Segment of the customer
 
 ## Evaluation Metric
 The evaluation metric for this hackathon is Accuracy Score.
