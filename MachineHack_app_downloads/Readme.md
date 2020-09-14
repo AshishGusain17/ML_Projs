@@ -6,6 +6,7 @@ smartphone revolution with more than 2 billion active users a month worldwide. W
 popular is not just its aesthetics or performance but the millions of applications or softwares that 
 are available for the platform free of cost or paid, enterprise or consumer.
 
+
 Android Application development is a demanding skill and every business has found the necessity to establish
 its presence in the market by having its own application made available to users.
 In this hackathon, you as a data scientist must foresee the success of an android application by building 
